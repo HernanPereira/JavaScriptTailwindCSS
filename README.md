@@ -1,1 +1,1 @@
-# JavaScriptTailwindCSS
+# Prueba front-end (JavaScript + TailwindCSS)
